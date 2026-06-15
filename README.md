@@ -10,7 +10,7 @@ The training is broken down into structured progressive modules, moving from raw
 
 | Module | Topic | Description |
 | :--- | :--- | :--- | 
-| **01** | [The Core Foundation](./Module1:TheCoreFoundation) | Classes, Objects, State Management, and IDE Terminal Workflows. | 
+| **01** | [The Core Foundation](./Module1TheCoreFoundation) | Classes, Objects, State Management, and IDE Terminal Workflows. | 
 | **02** | [Encapsulation](./Module2Encapsulation) | Data hiding, `private` bounds, and secure state validation. | 
 | **03** | [Inheritance](./Module3Inheritance) | Code reusability, parent/child extensions, and structural scaling. | 
 | **04** | [Polymorphism](./Module4Polymorphism) | Overriding, overloading, interface execution, and dynamic routing. | 
