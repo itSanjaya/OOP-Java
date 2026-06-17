@@ -35,24 +35,29 @@ OOP-Java/
 ├── .gitignore                      # Prevents tracking compiled files
 ├── README.md                       # This root syllabus file
 │
-└── Module1:TheCoreFoundation/     # Module 1 Sandbox
+├── Module1:TheCoreFoundation/     # Module 1 Sandbox
 │    ├── Main.java                   # Primary entry point
 │    └── README.md                   # Specific assignment brief and run commands
-└── Module2:Encapsulation/         # Module 2 Sandbox
+├── Module2:Encapsulation/         # Module 2 Sandbox
 │    ├── Main.java                   
 │    ├── BankAccount.java            # Encapsulation example class
 │    └── README.md                   # Specific assignment brief and run commands
-└── Module3:Inheritance/           # Module 3 Sandbox
+├── Module3:Inheritance/           # Module 3 Sandbox
 │    ├── Main.java
 │    ├── Vehicle.java                # Parent class example
-│    ├── Car.java                    # Child class example
+│    ├── Car.java                    # Child class example 1
+│    ├── Truck.java                  # Child class example 2
 │    └── README.md                   # Specific assignment brief and run commands
-└── Module4:Polymorphism/          # Module 4 Sandbox
-     ├── Main.java
-     ├── Shape.java                  # Interface example
-     ├── Circle.java                 # Implementation example
-     ├── Rectangle.java              # Implementation example
-     └── README.md                   # Specific assignment brief and run commands
+├── Module4:Polymorphism/          # Module 4 Sandbox
+│    ├── Main.java
+│    ├── Shape.java                  # Interface example
+│    ├── Circle.java                 # Implementation example
+│    ├── Rectangle.java              # Implementation example
+│    └── README.md                   # Specific assignment brief and run commands
+│
+└── Project-BankManagementSystem/   # Standalone Project Folder
+     ├── Main.java                   # Project execution entry point
+     └── BankAccount.java            # Main BankAccount class
 ```
 
 To run individual assignments, navigate into the specific module directory and read the standalone `README.md` located inside it for exact execution instructions.
